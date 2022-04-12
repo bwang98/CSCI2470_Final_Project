@@ -45,7 +45,11 @@ FER-2013 is the dataset we use. The bias caused by collection and label is proba
  
  
 ## **Division of labor** 
-Preprocessing - Bohao, Ying \\
-Train the model - Ying, Elbert\\
-Test for the accuracy - Bohao\\
-Convert the result into emojis - Elbert\\
+Preprocessing - Bohao, Ying
+
+Train the model - Ying, Elbert
+
+Test for the accuracy - Bohao
+
+Convert the result into emojis - Elbert
+
