@@ -1,6 +1,7 @@
 from __future__ import absolute_import
 from matplotlib import pyplot as plt
-from preprocess import get_data
+from preprocess import get_inputs_labels
+from preprocess import training_testing_prep
 #from convolution import conv2d
 
 import os
