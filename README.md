@@ -30,7 +30,7 @@ We need to divide the training data into the training set and the validation set
 
 
 ## **Metrics**
-We plan on running several iterations of the classification algorithm on the training set and testing set and seeing how accurate the test results are. The notion of accuracy does apply to this project, since our data is classified already, so it is easy to evaluate how well the model does by calculating the accuracy. Our base goal accuracy is 85% within a reasonable training/testing time (30 minutes atm), our target goal is 95% accuracy, and our stretch goal is 99% accuracy. If possible, a further stretch goal is to significantly decrease the amount of time the model takes to train and test.
+We plan on running several iterations of the classification algorithm on the training set and testing set and seeing how accurate the test results are. The notion of accuracy does apply to this project, since our data is classified already, so it is easy to evaluate how well the model does by calculating the accuracy. Our base goal accuracy is 70% within a reasonable training/testing time (30 minutes atm), our target goal is 75% accuracy, and our stretch goal is 80% accuracy. If possible, a further stretch goal is to significantly decrease the amount of time the model takes to train and test.
  
  
 ## **Ethics**
