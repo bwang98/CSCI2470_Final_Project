@@ -1,7 +1,9 @@
+### **(Note, the main file for the code is csci2470_project.ipynb)**
+
+
 ##  **Title**
 Facial Expression Detection and Emoji Conversion
 
-(Note, the main file for the code is csci2470_project.ipynb)
 Our training accuracy is 89%, our validation accuracy is 66%, and our testing accuracy is 64.29%
 
  
