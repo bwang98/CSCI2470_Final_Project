@@ -1,6 +1,9 @@
 ##  **Title**
 Facial Expression Detection and Emoji Conversion
- 
+
+(Note, the main file for the code is csci2470_project.ipynb)
+Our training accuracy is 89%, our validation accuracy is 66%, and our testing accuracy is 64.29%
+
  
 ## **Who**
 Elbert Wu (ewu12), Bohao Wang (bwang98), Ying Sun(ysun141)
@@ -40,8 +43,16 @@ Higher accuracy is obtained using deep learning than using classical Machine Lea
  
 FER-2013 is the dataset we use. The bias caused by collection and label is probably a problem we need to concern. To see if FER related datasets suffer from obvious biases caused by different cultures and collection conditions, Li and other researchers (2019) quantitatively verified that the datasets have a strong build-in bias and proposed Emotion-Conditional Adoption Network to address the issue. 
 
-**Citation**: [https://arxiv.org/pdf/1904.11150.pdf](https://arxiv.org/pdf/1904.11150.pdf)
- 
+**Citation**:
+
+
+1 [https://arxiv.org/pdf/1904.11150.pdf]
+
+2 https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition]
+
+3 https://github.com/NJNischal/Facial-Expression-Recognition-with-CNNs/blob/master/camera.py
+
+4 https://towardsdatascience.com/facial-expression-recognition-fer-without-artificial-neural-networks-4fa981da9724
  
  
 ## **Division of labor** 
@@ -52,4 +63,17 @@ Train the model - Ying, Elbert
 Test for the accuracy - Bohao
 
 Convert the result into emojis - Elbert
+
+
+## Reflection for Check-in #3
+[https://docs.google.com/document/d/1ZXa9UwLXr2ZHobvgHSTNtnJY-nFanbTuX7o7wJBmu9Y/edit?usp=sharing]
+
+## Final Reflection
+[https://docs.google.com/document/d/1XHmipptljh-wJmcFSGZCPf5lrIlKBVWc6x5IAOHfkEg/edit?usp=sharing]
+
+## Slides
+[https://www.canva.com/design/DAFAOEHU0Mo/XyLo1OQlrEC_0otpkldibQ/view?utm_content=DAFAOEHU0Mo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink]
+
+## Devpost
+[https://devpost.com/software/facial-expression-detection-and-emoji-conversion?ref_content=my-projects-tab&ref_feature=my_projects]
 
